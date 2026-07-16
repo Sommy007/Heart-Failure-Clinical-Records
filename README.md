@@ -11,6 +11,13 @@ This project is aimed at using unsupervised machine learning (K-Means clustering
 ## Features Used
 Age (years), Anaemia, Creatinine Phosphokinase (CPK), Diabetes, Ejection Fraction (%), High Blood Pressure, Platelets (kiloplatelets/mL), Serum Creatinine (mg/dL), Serum Sodium (mEq/L), Sex, Smoking Status, Follow-up period (days).
 
+## Data Source
+This project uses a publicly available dataset that follows standard academic citation practices.  
+Dataset Name: Heart Failure Clinical Records  
+Source: UCI Machine Learning Repository  
+Authors: Davide Chicco & Giuseppe Jurman  
+Year: 2020  
+DOI / Reference: https://doi.org/10.24432/C5Z89R
 
 
 
